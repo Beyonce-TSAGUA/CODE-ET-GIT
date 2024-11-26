@@ -19,4 +19,8 @@ public class StockManager {
             System.out.println("Opération inconnue.");
         }
     }
+    /**
+     * @param typeOperation
+     * @param produit
+     */
 }
